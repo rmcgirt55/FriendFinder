@@ -1,0 +1,6 @@
+node_modules/
+jspm_packages/
+
+.next
+.env
+.yarn-integrity
